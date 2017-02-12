@@ -1,0 +1,15 @@
+{
+  "accountwidgetmodule": {
+    "js": "/assets/dist/0.chunk.js"
+  },
+  "vendor": {
+    "js": "/assets/dist/vendor.bundle.js"
+  },
+  "main": {
+    "js": "/assets/dist/main.bundle.js",
+    "css": "/assets/dist/main.d799841e5ce53c2fb9389a7567f94401.css"
+  },
+  "polyfills": {
+    "js": "/assets/dist/polyfills.bundle.js"
+  }
+}
